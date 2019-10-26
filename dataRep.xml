@@ -1,28 +1,26 @@
-# Simona Vasiliauskaite G00263352
-# Data Representation Exercise 1
-
 <?xml version="1.0" encoding="UTF-8"?>
+    <Library>
+        <Catalogue category="Technical Books">
+            <ISBN>9780749472115</ISBN>
+            <Title>Humanizing Big Data</Title>
+            <Author>Colin Strong</Author>
+        </Catalogue>
 
-<Library>
-    <Catalogue>
-        <category>Technical Books</category>
-        <ISBN>9780749472115</ISBN>
-        <Title>Humanizing Big Data</Title>
-        <Author>Colin Strong</Author>
-    </Catalogue>
-    <Catalogue category="Technical Books">
-        <ISBN>9780124160446</ISBN>
-        <Title>Principles of Data Inegration</Title>
-        <Author>AnHai Doan</Author>
-    </Catalogue>
-    <Catalogue category="Cookery Books">
-        <ISBN>9780241206881</ISBN>
-        <Title>Mary Berry Cookery Course</Title>
-        <Author>Mary Berry</Author>
-    </Catalogue>
-    <Catalogue category="Cookery Books">
-        <ISBN>9781510461710</ISBN>
-        <Title>Practical Cookery</Title>
-        <Author>David Foskett<Author>
-    </Catalogue>
-</Library>
+        <Catalogue category="Technical Books">
+            <ISBN>9780124160446</ISBN>
+            <Title>Principles of Data Inegration</Title>
+            <Author>AnHai Doan</Author>
+        </Catalogue>
+
+        <Catalogue category="Cookery Books">
+            <ISBN>9780241206881</ISBN>
+            <Title>Mary Berry Cookery Course</Title>
+            <Author>Mary Berry</Author>
+        </Catalogue>
+
+        <Catalogue category="Cookery Books">
+            <ISBN>9781510461710</ISBN>
+            <Title>Practical Cookery</Title>
+            <Author>David Foskett</Author>
+        </Catalogue>
+    </Library>
